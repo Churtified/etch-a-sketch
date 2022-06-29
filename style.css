@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 0px;
+}
+
+.grid {
+    width: 6.25%;
+    background-color: teal;
+    aspect-ratio: 1/1;
+}
